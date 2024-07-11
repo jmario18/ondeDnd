@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	margin : 0;
+	padding: 30px;
+	background-color: rgba(237,229,193,1.00);
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman";
+}
+
+.impar{
+	background-color: rgba(144,199,157,0.40);
+}
+table{
+	background-color: white;
+	border-style: solid ;
+}
+table tr td{
+	align-content: center;
+	box-shadow: 0px 1px;
+	font-size: 30px;
+}
+
+h1{
+	color: rgba(96,21,0,1.00);
+	text-decoration: underline;
+}
+h2{
+	color: rgba(96,21,0,1.00);
+	text-decoration: underline;
+}
+
+table a {
+	text-decoration: none;
+	color: black;
+}
+p{
+	text-align: justify;
+}
+
+a{
+	text-decoration: underline;
+	color: black;
+}
